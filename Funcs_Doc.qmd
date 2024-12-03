@@ -1,0 +1,6 @@
+---
+title: "Data Prep and Time Series Plot Functions"
+format: html
+---
+
+This document helps to walk people through the data prep and plotting functions. 
